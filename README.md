@@ -1,7 +1,4 @@
 # Axiom
-
-Project Description Name: Axiom
-
 Type of Engine: Financial Reality Engine & Market Autopsy Suite
 
 Architecture: Constructed using HTML, CSS, and JavaScript technologies and deployed through Vercel platform
